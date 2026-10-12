@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="th" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="western.aries">
+                <source>western.aries</source>
+                <target state="needs-review-translation">ราศีเมษ</target>
+            </trans-unit>
+            <trans-unit id="western.taurus">
+                <source>western.taurus</source>
+                <target state="needs-review-translation">ราศีพฤษภ</target>
+            </trans-unit>
+            <trans-unit id="western.gemini">
+                <source>western.gemini</source>
+                <target state="needs-review-translation">ราศีเมถุน</target>
+            </trans-unit>
+            <trans-unit id="western.cancer">
+                <source>western.cancer</source>
+                <target state="needs-review-translation">ราศีกรกฎ</target>
+            </trans-unit>
+            <trans-unit id="western.leo">
+                <source>western.leo</source>
+                <target state="needs-review-translation">ราศีสิงห์</target>
+            </trans-unit>
+            <trans-unit id="western.virgo">
+                <source>western.virgo</source>
+                <target state="needs-review-translation">ราศีกันย์</target>
+            </trans-unit>
+            <trans-unit id="western.libra">
+                <source>western.libra</source>
+                <target state="needs-review-translation">ราศีตุลย์</target>
+            </trans-unit>
+            <trans-unit id="western.scorpio">
+                <source>western.scorpio</source>
+                <target state="needs-review-translation">ราศีพิจิก</target>
+            </trans-unit>
+            <trans-unit id="western.sagittarius">
+                <source>western.sagittarius</source>
+                <target state="needs-review-translation">ราศีธนู</target>
+            </trans-unit>
+            <trans-unit id="western.capricorn">
+                <source>western.capricorn</source>
+                <target state="needs-review-translation">ราศีมังกร</target>
+            </trans-unit>
+            <trans-unit id="western.aquarius">
+                <source>western.aquarius</source>
+                <target state="needs-review-translation">ราศีกุมภ์</target>
+            </trans-unit>
+            <trans-unit id="western.pisces">
+                <source>western.pisces</source>
+                <target state="needs-review-translation">ราศีมีน</target>
+            </trans-unit>
+            <trans-unit id="chinese.rat">
+                <source>chinese.rat</source>
+                <target state="needs-review-translation">หนู</target>
+            </trans-unit>
+            <trans-unit id="chinese.ox">
+                <source>chinese.ox</source>
+                <target state="needs-review-translation">วัว</target>
+            </trans-unit>
+            <trans-unit id="chinese.tiger">
+                <source>chinese.tiger</source>
+                <target state="needs-review-translation">เสือ</target>
+            </trans-unit>
+            <trans-unit id="chinese.rabbit">
+                <source>chinese.rabbit</source>
+                <target state="needs-review-translation">กระต่าย</target>
+            </trans-unit>
+            <trans-unit id="chinese.dragon">
+                <source>chinese.dragon</source>
+                <target state="needs-review-translation">มังกร</target>
+            </trans-unit>
+            <trans-unit id="chinese.snake">
+                <source>chinese.snake</source>
+                <target state="needs-review-translation">งู</target>
+            </trans-unit>
+            <trans-unit id="chinese.horse">
+                <source>chinese.horse</source>
+                <target state="needs-review-translation">ม้า</target>
+            </trans-unit>
+            <trans-unit id="chinese.goat">
+                <source>chinese.goat</source>
+                <target state="needs-review-translation">แพะ</target>
+            </trans-unit>
+            <trans-unit id="chinese.monkey">
+                <source>chinese.monkey</source>
+                <target state="needs-review-translation">ลิง</target>
+            </trans-unit>
+            <trans-unit id="chinese.rooster">
+                <source>chinese.rooster</source>
+                <target state="needs-review-translation">ไก่ตัวผู้</target>
+            </trans-unit>
+            <trans-unit id="chinese.dog">
+                <source>chinese.dog</source>
+                <target state="needs-review-translation">สุนัข</target>
+            </trans-unit>
+            <trans-unit id="chinese.pig">
+                <source>chinese.pig</source>
+                <target state="needs-review-translation">หมู</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

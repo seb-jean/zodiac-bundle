@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="sv" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="western.aries">
+                <source>western.aries</source>
+                <target state="needs-review-translation">Väduren</target>
+            </trans-unit>
+            <trans-unit id="western.taurus">
+                <source>western.taurus</source>
+                <target state="needs-review-translation">Oxen</target>
+            </trans-unit>
+            <trans-unit id="western.gemini">
+                <source>western.gemini</source>
+                <target state="needs-review-translation">Tvillingarna</target>
+            </trans-unit>
+            <trans-unit id="western.cancer">
+                <source>western.cancer</source>
+                <target state="needs-review-translation">Kräftan</target>
+            </trans-unit>
+            <trans-unit id="western.leo">
+                <source>western.leo</source>
+                <target state="needs-review-translation">Lejonet</target>
+            </trans-unit>
+            <trans-unit id="western.virgo">
+                <source>western.virgo</source>
+                <target state="needs-review-translation">Jungfrun</target>
+            </trans-unit>
+            <trans-unit id="western.libra">
+                <source>western.libra</source>
+                <target state="needs-review-translation">Vågen</target>
+            </trans-unit>
+            <trans-unit id="western.scorpio">
+                <source>western.scorpio</source>
+                <target state="needs-review-translation">Skorpionen</target>
+            </trans-unit>
+            <trans-unit id="western.sagittarius">
+                <source>western.sagittarius</source>
+                <target state="needs-review-translation">Skytten</target>
+            </trans-unit>
+            <trans-unit id="western.capricorn">
+                <source>western.capricorn</source>
+                <target state="needs-review-translation">Stenbocken</target>
+            </trans-unit>
+            <trans-unit id="western.aquarius">
+                <source>western.aquarius</source>
+                <target state="needs-review-translation">Vattumannen</target>
+            </trans-unit>
+            <trans-unit id="western.pisces">
+                <source>western.pisces</source>
+                <target state="needs-review-translation">Fiskarna</target>
+            </trans-unit>
+            <trans-unit id="chinese.rat">
+                <source>chinese.rat</source>
+                <target state="needs-review-translation">Råtta</target>
+            </trans-unit>
+            <trans-unit id="chinese.ox">
+                <source>chinese.ox</source>
+                <target state="needs-review-translation">Oxe</target>
+            </trans-unit>
+            <trans-unit id="chinese.tiger">
+                <source>chinese.tiger</source>
+                <target state="needs-review-translation">Tiger</target>
+            </trans-unit>
+            <trans-unit id="chinese.rabbit">
+                <source>chinese.rabbit</source>
+                <target state="needs-review-translation">Kanin</target>
+            </trans-unit>
+            <trans-unit id="chinese.dragon">
+                <source>chinese.dragon</source>
+                <target state="needs-review-translation">Drake</target>
+            </trans-unit>
+            <trans-unit id="chinese.snake">
+                <source>chinese.snake</source>
+                <target state="needs-review-translation">Orm</target>
+            </trans-unit>
+            <trans-unit id="chinese.horse">
+                <source>chinese.horse</source>
+                <target state="needs-review-translation">Häst</target>
+            </trans-unit>
+            <trans-unit id="chinese.goat">
+                <source>chinese.goat</source>
+                <target state="needs-review-translation">Get</target>
+            </trans-unit>
+            <trans-unit id="chinese.monkey">
+                <source>chinese.monkey</source>
+                <target state="needs-review-translation">Apa</target>
+            </trans-unit>
+            <trans-unit id="chinese.rooster">
+                <source>chinese.rooster</source>
+                <target state="needs-review-translation">Tupp</target>
+            </trans-unit>
+            <trans-unit id="chinese.dog">
+                <source>chinese.dog</source>
+                <target state="needs-review-translation">Hund</target>
+            </trans-unit>
+            <trans-unit id="chinese.pig">
+                <source>chinese.pig</source>
+                <target state="needs-review-translation">Gris</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

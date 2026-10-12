@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="zh-CN" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="western.aries">
+                <source>western.aries</source>
+                <target state="needs-review-translation">白羊座</target>
+            </trans-unit>
+            <trans-unit id="western.taurus">
+                <source>western.taurus</source>
+                <target state="needs-review-translation">金牛座</target>
+            </trans-unit>
+            <trans-unit id="western.gemini">
+                <source>western.gemini</source>
+                <target state="needs-review-translation">双子座</target>
+            </trans-unit>
+            <trans-unit id="western.cancer">
+                <source>western.cancer</source>
+                <target state="needs-review-translation">巨蟹座</target>
+            </trans-unit>
+            <trans-unit id="western.leo">
+                <source>western.leo</source>
+                <target state="needs-review-translation">狮子座</target>
+            </trans-unit>
+            <trans-unit id="western.virgo">
+                <source>western.virgo</source>
+                <target state="needs-review-translation">处女座</target>
+            </trans-unit>
+            <trans-unit id="western.libra">
+                <source>western.libra</source>
+                <target state="needs-review-translation">天秤座</target>
+            </trans-unit>
+            <trans-unit id="western.scorpio">
+                <source>western.scorpio</source>
+                <target state="needs-review-translation">天蝎座</target>
+            </trans-unit>
+            <trans-unit id="western.sagittarius">
+                <source>western.sagittarius</source>
+                <target state="needs-review-translation">射手座</target>
+            </trans-unit>
+            <trans-unit id="western.capricorn">
+                <source>western.capricorn</source>
+                <target state="needs-review-translation">摩羯座</target>
+            </trans-unit>
+            <trans-unit id="western.aquarius">
+                <source>western.aquarius</source>
+                <target state="needs-review-translation">水瓶座</target>
+            </trans-unit>
+            <trans-unit id="western.pisces">
+                <source>western.pisces</source>
+                <target state="needs-review-translation">双鱼座</target>
+            </trans-unit>
+            <trans-unit id="chinese.rat">
+                <source>chinese.rat</source>
+                <target state="needs-review-translation">鼠</target>
+            </trans-unit>
+            <trans-unit id="chinese.ox">
+                <source>chinese.ox</source>
+                <target state="needs-review-translation">牛</target>
+            </trans-unit>
+            <trans-unit id="chinese.tiger">
+                <source>chinese.tiger</source>
+                <target state="needs-review-translation">虎</target>
+            </trans-unit>
+            <trans-unit id="chinese.rabbit">
+                <source>chinese.rabbit</source>
+                <target state="needs-review-translation">兔</target>
+            </trans-unit>
+            <trans-unit id="chinese.dragon">
+                <source>chinese.dragon</source>
+                <target state="needs-review-translation">龙</target>
+            </trans-unit>
+            <trans-unit id="chinese.snake">
+                <source>chinese.snake</source>
+                <target state="needs-review-translation">蛇</target>
+            </trans-unit>
+            <trans-unit id="chinese.horse">
+                <source>chinese.horse</source>
+                <target state="needs-review-translation">马</target>
+            </trans-unit>
+            <trans-unit id="chinese.goat">
+                <source>chinese.goat</source>
+                <target state="needs-review-translation">羊</target>
+            </trans-unit>
+            <trans-unit id="chinese.monkey">
+                <source>chinese.monkey</source>
+                <target state="needs-review-translation">猴</target>
+            </trans-unit>
+            <trans-unit id="chinese.rooster">
+                <source>chinese.rooster</source>
+                <target state="needs-review-translation">鸡</target>
+            </trans-unit>
+            <trans-unit id="chinese.dog">
+                <source>chinese.dog</source>
+                <target state="needs-review-translation">狗</target>
+            </trans-unit>
+            <trans-unit id="chinese.pig">
+                <source>chinese.pig</source>
+                <target state="needs-review-translation">猪</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

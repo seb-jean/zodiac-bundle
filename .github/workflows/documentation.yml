@@ -1,0 +1,21 @@
+name: Documentation
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  doctor-rst:
+    name: DOCtor-RST
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: DOCtor-RST
+        uses: docker://oskarstark/doctor-rst:1.87.0
+        with:
+          args: --short --error-format=github

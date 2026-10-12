@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="cy" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="western.aries">
+                <source>western.aries</source>
+                <target state="needs-review-translation">Yr Hwrdd</target>
+            </trans-unit>
+            <trans-unit id="western.taurus">
+                <source>western.taurus</source>
+                <target state="needs-review-translation">Y Tarw</target>
+            </trans-unit>
+            <trans-unit id="western.gemini">
+                <source>western.gemini</source>
+                <target state="needs-review-translation">Yr Efeilliaid</target>
+            </trans-unit>
+            <trans-unit id="western.cancer">
+                <source>western.cancer</source>
+                <target state="needs-review-translation">Y Cranc</target>
+            </trans-unit>
+            <trans-unit id="western.leo">
+                <source>western.leo</source>
+                <target state="needs-review-translation">Y Llew</target>
+            </trans-unit>
+            <trans-unit id="western.virgo">
+                <source>western.virgo</source>
+                <target state="needs-review-translation">Y Forwyn</target>
+            </trans-unit>
+            <trans-unit id="western.libra">
+                <source>western.libra</source>
+                <target state="needs-review-translation">Y Fantol</target>
+            </trans-unit>
+            <trans-unit id="western.scorpio">
+                <source>western.scorpio</source>
+                <target state="needs-review-translation">Y Sgorpion</target>
+            </trans-unit>
+            <trans-unit id="western.sagittarius">
+                <source>western.sagittarius</source>
+                <target state="needs-review-translation">Y Saethydd</target>
+            </trans-unit>
+            <trans-unit id="western.capricorn">
+                <source>western.capricorn</source>
+                <target state="needs-review-translation">Yr Afr</target>
+            </trans-unit>
+            <trans-unit id="western.aquarius">
+                <source>western.aquarius</source>
+                <target state="needs-review-translation">Y Dyfrwr</target>
+            </trans-unit>
+            <trans-unit id="western.pisces">
+                <source>western.pisces</source>
+                <target state="needs-review-translation">Y Pysgod</target>
+            </trans-unit>
+            <trans-unit id="chinese.rat">
+                <source>chinese.rat</source>
+                <target state="needs-review-translation">Llygoden fawr</target>
+            </trans-unit>
+            <trans-unit id="chinese.ox">
+                <source>chinese.ox</source>
+                <target state="needs-review-translation">Ych</target>
+            </trans-unit>
+            <trans-unit id="chinese.tiger">
+                <source>chinese.tiger</source>
+                <target state="needs-review-translation">Teigr</target>
+            </trans-unit>
+            <trans-unit id="chinese.rabbit">
+                <source>chinese.rabbit</source>
+                <target state="needs-review-translation">Cwningen</target>
+            </trans-unit>
+            <trans-unit id="chinese.dragon">
+                <source>chinese.dragon</source>
+                <target state="needs-review-translation">Draig</target>
+            </trans-unit>
+            <trans-unit id="chinese.snake">
+                <source>chinese.snake</source>
+                <target state="needs-review-translation">Neidr</target>
+            </trans-unit>
+            <trans-unit id="chinese.horse">
+                <source>chinese.horse</source>
+                <target state="needs-review-translation">Ceffyl</target>
+            </trans-unit>
+            <trans-unit id="chinese.goat">
+                <source>chinese.goat</source>
+                <target state="needs-review-translation">Gafr</target>
+            </trans-unit>
+            <trans-unit id="chinese.monkey">
+                <source>chinese.monkey</source>
+                <target state="needs-review-translation">Mwnci</target>
+            </trans-unit>
+            <trans-unit id="chinese.rooster">
+                <source>chinese.rooster</source>
+                <target state="needs-review-translation">Ceiliog</target>
+            </trans-unit>
+            <trans-unit id="chinese.dog">
+                <source>chinese.dog</source>
+                <target state="needs-review-translation">Ci</target>
+            </trans-unit>
+            <trans-unit id="chinese.pig">
+                <source>chinese.pig</source>
+                <target state="needs-review-translation">Mochyn</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

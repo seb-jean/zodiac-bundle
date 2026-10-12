@@ -1,0 +1,47 @@
+name: 🐛 Bug Report
+description: Report a wrong sign, an error or an unexpected behavior
+labels: ["bug"]
+
+body:
+    - type: input
+      id: affected-versions
+      attributes:
+          label: Bundle version(s) affected
+          placeholder: x.y.z
+      validations:
+          required: true
+    - type: input
+      id: environment
+      attributes:
+          label: PHP and Symfony versions
+          placeholder: PHP 8.4.x, Symfony 8.1.x
+      validations:
+          required: true
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: A clear and concise description of the problem
+      validations:
+          required: true
+    - type: textarea
+      id: how-to-reproduce
+      attributes:
+          label: How to reproduce
+          description: |
+              Give the date you passed, with its type and timezone, the astrology, the sign you got and the one you expected.
+              Most bugs can be reproduced in a single line, e.g. `WesternZodiacSign::fromDate('1990-03-25')`.
+      validations:
+          required: true
+    - type: textarea
+      id: possible-solution
+      attributes:
+          label: Possible Solution
+          description: |
+              Optional: only if you have suggestions on a fix or on the reason of the bug.
+              Don't hesitate to create a pull request with your solution.
+    - type: textarea
+      id: additional-context
+      attributes:
+          label: Additional Context
+          description: "Optional: any other context about the problem: error messages, screenshots, etc."
